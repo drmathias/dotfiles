@@ -1,5 +1,5 @@
 theme = Neobones Dark
-custom-shader = ~/Library/Application Support/com.mitchellh.ghostty/shaders/space.glsl
+custom-shader = ./shaders/space.glsl
 font-family = "JetBrainsMono"
 font-size = 18
 font-thicken = true
